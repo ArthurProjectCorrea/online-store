@@ -1,9 +1,65 @@
-<script setup>
-import TheWelcome from '../components/TheWelcome.vue'
-</script>
-
 <template>
-  <main>
-    <TheWelcome />
-  </main>
+  <div class="bg-gray-700 w-full h-full text-white">
+    <div>ola</div>
+    <div>ola</div>
+    <div>ola</div>
+    <div>ola</div>
+    <div>ola</div>
+    <div>ola</div>
+    <div>ola</div>
+    <div>ola</div>
+    <div>ola</div>
+    <div>ola</div>
+    <div>ola</div>
+    <div>ola</div>
+    <div>ola</div>
+    <div>ola</div>
+    <div>ola</div>
+    <div>ola</div>
+    <div>ola</div>
+    <div>ola</div>
+    <div>ola</div>
+    <div>ola</div>
+    <div>ola</div>
+    <div>ola</div>
+    <div>ola</div>
+    <div>ola</div>
+    <div>ola</div>
+    <div>ola</div>
+    <div>ola</div>
+    <div>ola</div>
+    <div>ola</div>
+    <div>ola</div>
+    <div>ola</div>
+    <div>ola</div>
+    <div>ola</div>
+    <div>ola</div>
+    <div>ola</div>
+    <div>ola</div>
+    <div>ola</div>
+    <div>ola</div>
+    <div>ola</div>
+    <div>ola</div>
+    <div>ola</div>
+    <div>ola</div>
+    <div>ola</div>
+    <div>ola</div>
+    <div>ola</div>
+    <div>ola</div>
+    <div>ola</div>
+    <div>ola</div>
+    <div>ola</div>
+    <div>ola</div>
+    <div>ola</div>
+    <div>ola</div>
+    <div>ola</div>
+    <div>ola</div>
+    <div>ola</div>
+    <div>ola</div>
+    <div>ola</div>
+    <div>ola</div>
+    <div>ola</div>
+  </div>
 </template>
+<script setup></script>
+<style scoped></style>
