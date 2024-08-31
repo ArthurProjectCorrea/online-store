@@ -1,0 +1,1 @@
+import{_ as o,c as n,a as t,b as s,o as c,r as a}from"./index-CdYRxzTW.js";const r={},_=s("h1",{class:"text-3xl font-bold underline"},"Hello world!",-1);function l(d,f){const e=a("font-awesome-icon");return c(),n("div",null,[_,t(e,{icon:["fas","user-secret"]})])}const m=o(r,[["render",l]]);export{m as default};
