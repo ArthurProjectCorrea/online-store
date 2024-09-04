@@ -13,10 +13,21 @@ import {
   faWallet,
   faBook,
   faHeadset,
-  faRightFromBracket
+  faRightFromBracket,
+  faPlus,
 } from "@fortawesome/free-solid-svg-icons";
 
-library.add(faGear, faTowerCell, faCity, faQrcode, faWallet, faBook, faHeadset, faRightFromBracket);
+library.add(
+  faGear,
+  faTowerCell,
+  faCity,
+  faQrcode,
+  faWallet,
+  faBook,
+  faHeadset,
+  faRightFromBracket,
+  faPlus
+);
 
 createApp(App)
   .component("font-awesome-icon", FontAwesomeIcon)

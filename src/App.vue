@@ -3,7 +3,7 @@
     <div>
       <SideBar />
     </div>
-    <div>
+    <div class="w-full">
       <RouterView />
     </div>
   </div>
@@ -17,6 +17,6 @@ import SideBar from './components/SideBar.vue'
 
 <style scoped>
 .styleMain{
-  @apply flex h-screen h-screen bg-gray-200 font-montserrat text-gray-950
+  @apply flex bg-gray-200 font-montserrat text-gray-950 w-full h-screen
 }
 </style>
