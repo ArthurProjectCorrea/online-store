@@ -23,7 +23,7 @@
                     Main
                 </p>
                 <div class="styleMenuList">
-                    <RouterLink to="/" class="styleMenuOption">
+                    <RouterLink to="/transmissions" class="styleMenuOption">
                         <font-awesome-icon :icon="['fas', 'tower-cell']" />
                         Transmissions
                     </RouterLink>
