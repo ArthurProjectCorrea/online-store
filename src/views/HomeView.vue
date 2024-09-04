@@ -1,64 +1,9 @@
 <template>
-  <div class="bg-gray-700 w-full h-full text-white">
+  <div class="p-2 bg-gray-50 m-2 w-full">
     <div>ola</div>
     <div>ola</div>
     <div>ola</div>
-    <div>ola</div>
-    <div>ola</div>
-    <div>ola</div>
-    <div>ola</div>
-    <div>ola</div>
-    <div>ola</div>
-    <div>ola</div>
-    <div>ola</div>
-    <div>ola</div>
-    <div>ola</div>
-    <div>ola</div>
-    <div>ola</div>
-    <div>ola</div>
-    <div>ola</div>
-    <div>ola</div>
-    <div>ola</div>
-    <div>ola</div>
-    <div>ola</div>
-    <div>ola</div>
-    <div>ola</div>
-    <div>ola</div>
-    <div>ola</div>
-    <div>ola</div>
-    <div>ola</div>
-    <div>ola</div>
-    <div>ola</div>
-    <div>ola</div>
-    <div>ola</div>
-    <div>ola</div>
-    <div>ola</div>
-    <div>ola</div>
-    <div>ola</div>
-    <div>ola</div>
-    <div>ola</div>
-    <div>ola</div>
-    <div>ola</div>
-    <div>ola</div>
-    <div>ola</div>
-    <div>ola</div>
-    <div>ola</div>
-    <div>ola</div>
-    <div>ola</div>
-    <div>ola</div>
-    <div>ola</div>
-    <div>ola</div>
-    <div>ola</div>
-    <div>ola</div>
-    <div>ola</div>
-    <div>ola</div>
-    <div>ola</div>
-    <div>ola</div>
-    <div>ola</div>
-    <div>ola</div>
-    <div>ola</div>
-    <div>ola</div>
-    <div>ola</div>
+
   </div>
 </template>
 <script setup></script>

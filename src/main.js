@@ -1,13 +1,22 @@
-import "./assets/main.css";
+// import "./assets/main.css";
 import "./assets/tailwind.css";
 import { createApp } from "vue";
 import App from "./App.vue";
 import router from "./router";
 import { library } from "@fortawesome/fontawesome-svg-core";
 import { FontAwesomeIcon } from "@fortawesome/vue-fontawesome";
-import { faBars, faUserSecret, faXmark } from "@fortawesome/free-solid-svg-icons";
+import {
+  faGear,
+  faTowerCell,
+  faCity,
+  faQrcode,
+  faWallet,
+  faBook,
+  faHeadset,
+  faRightFromBracket
+} from "@fortawesome/free-solid-svg-icons";
 
-library.add(faUserSecret, faBars, faXmark);
+library.add(faGear, faTowerCell, faCity, faQrcode, faWallet, faBook, faHeadset, faRightFromBracket);
 
 createApp(App)
   .component("font-awesome-icon", FontAwesomeIcon)
