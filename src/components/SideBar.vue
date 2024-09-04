@@ -81,7 +81,7 @@
 <script setup></script>
 <style scoped>
 .styleMain {
-    @apply flex-col justify-start items-start p-4 top-0 bottom-0
+    @apply flex-col justify-start items-start p-2 top-0 bottom-0
 }
 
 .styleLogo {
